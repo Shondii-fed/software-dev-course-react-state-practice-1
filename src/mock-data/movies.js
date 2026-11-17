@@ -1,4 +1,4 @@
-export const movies = [
+const movies = [
 	{
 		id: 1,
 		title: '12 Angry Men',
@@ -315,3 +315,5 @@ export const movies = [
 		yearReleased: '2007',
 	},
 ];
+
+export default movies

@@ -1,0 +1,9 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#genre-list-item:hover {
+    font-weight: 600;
+    color: darkorange;
+}
